@@ -1,0 +1,24 @@
+Report for dataset_70_15_15/t1_icbm_normal_1mm_pn7_rf40
+Loss: 0.0823
+Mean Absolute Error (MAE): 0.1258010395708446
+Root Mean Squared Error (RMSE): 0.28689555498027386
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9548    0.9816    0.9680    156364
+           1     0.8090    0.5571    0.6598     22642
+           2     0.8570    0.8766    0.8667     67634
+           3     0.8968    0.9114    0.9040     67576
+           4     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.9133    314216
+   macro avg     0.7035    0.6653    0.6797    314216
+weighted avg     0.9108    0.9133    0.9102    314216
+
+Dice Coefficients:
+Class 0 Dice coefficient: 0.9680064075477885
+Class 1 Dice coefficient: 0.6598315635298425
+Class 2 Dice coefficient: 0.8666993151135508
+Class 3 Dice coefficient: 0.9040307665208585
+Mean Dice coefficient: 0.84964201317801

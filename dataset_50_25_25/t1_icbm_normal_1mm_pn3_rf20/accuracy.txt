@@ -1,0 +1,23 @@
+Report for dataset_50_25_25/t1_icbm_normal_1mm_pn3_rf20
+Loss: 0.0518
+Mean Absolute Error (MAE): 0.0910445227684827
+Root Mean Squared Error (RMSE): 0.22759453567111565
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9700    0.9853    0.9776    259972
+           1     0.8349    0.7220    0.7744     34462
+           2     0.9061    0.9466    0.9259    107871
+           3     0.9708    0.9327    0.9514    108296
+
+    accuracy                         0.9482    510601
+   macro avg     0.9205    0.8967    0.9073    510601
+weighted avg     0.9476    0.9482    0.9474    510601
+
+Dice Coefficients:
+Class 0 Dice coefficient: 0.9775626102023525
+Class 1 Dice coefficient: 0.77437525285532
+Class 2 Dice coefficient: 0.925948595185956
+Class 3 Dice coefficient: 0.9513744660610256
+Mean Dice coefficient: 0.9073152310761635

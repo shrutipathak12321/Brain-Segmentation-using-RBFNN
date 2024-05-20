@@ -1,0 +1,23 @@
+Report for dataset_30_35_35/t1_icbm_normal_1mm_pn3_rf40
+Loss: 0.0577
+Mean Absolute Error (MAE): 0.11385375721621073
+Root Mean Squared Error (RMSE): 0.240213291394413
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9680    0.9861    0.9770    363459
+           1     0.8441    0.6777    0.7518     46949
+           2     0.9030    0.9159    0.9094    145693
+           3     0.9390    0.9412    0.9401    150885
+
+    accuracy                         0.9416    706986
+   macro avg     0.9135    0.8802    0.8946    706986
+weighted avg     0.9402    0.9416    0.9402    706986
+
+Dice Coefficients:
+Class 0 Dice coefficient: 0.9769573697029004
+Class 1 Dice coefficient: 0.7518075705306932
+Class 2 Dice coefficient: 0.9094167836552223
+Class 3 Dice coefficient: 0.9400744724865536
+Mean Dice coefficient: 0.8945640490938424
